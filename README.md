@@ -9,7 +9,7 @@ The aim for this project is to analyze the reviews and tips given by customers t
 1. To determine the Starbucks branch with the highest customer rating.
 2. To find the reviews of the highest-rated branch in order to improve other branches.
 3. To get feedback of the lowest-rated branch in order to improve.
-4. To find the peak hours when customers visit Starbucks to be well prepared and avoid under-staffing.
+4. To find the peak hours when customers visit Starbucks to avoid under-staffing.
 
 ### Data Sources
 
@@ -28,7 +28,7 @@ The project consists of two SQL Data files:
 Data Definition Language (DDL) file consists of _create table_ and _insert data_ queries.
 
 - <b> DML </b> <br>
-Data Manipulaion Language (DML) file consists of _Create Views_ queries. 
+Data Manipulaion Language (DML) file consists of _create views_ queries. 
 
 #### ERD
 ERD stands for __Entity Relationship Diagram__ and depicts relationships between different entities used in this project. The ERD was made using Lucidchart.
@@ -49,4 +49,4 @@ After installing the above mentioned software, you can run the DDL file in order
 
 ### Final Thoughts 
 
-This project can be used by any business in order to improve its business based on customer reviews.
+This project can be used by any business in order to improve customer satisfaction.
