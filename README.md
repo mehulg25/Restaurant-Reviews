@@ -18,7 +18,7 @@ The data was gathered from the following sources:
 2. Google Reviews
 3. FourSquare
 
-### Data Files
+### Files
 
 #### SQL Files
 
